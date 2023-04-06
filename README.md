@@ -59,7 +59,7 @@ const galaxiaX: WhoAmI = {
 };
 
 const GetCity = () => {
-	return "Bangkok", "Thailand";
+	return "Bangkok, Thailand";
 };
 	
 const Ambitions = () => {
