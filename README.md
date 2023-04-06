@@ -4,7 +4,7 @@
 
 
 
-[![Facebook Badge](https://img.shields.io/badge/-Pongsathon%20Kuanla-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/namo.pongsathon)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-pongsathon149@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pongsathon149@gmail.com)](mailto:pongsathon149@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Pongsathon%20Kuanla-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/namo.pongsathon)](https://www.facebook.com/namo.pongsathon) [![Gmail Badge](https://img.shields.io/badge/-pongsathon149@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pongsathon149@gmail.com)](mailto:pongsathon149@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galaxiax" alt="galaxiaX" /> </p>
 
 
