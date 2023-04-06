@@ -54,7 +54,7 @@ const galaxiaX: WhoAmI = {
   	"Gaming",
 		"Reading Manga",
 		"Watching Anime",
-		"Making  new project"
+		"Making New Project"
 	],
 };
 
