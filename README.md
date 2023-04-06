@@ -13,7 +13,8 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=galaxiaX&layout=compact">
 
-## ⭐ Languages & Framworks I Use
+
+## Languages & Framworks I Use
 
 <img src = 'https://icon.icepanel.io/Technology/svg/HTML5.svg' width='30'/>  <img src = 
 'https://icon.icepanel.io/Technology/svg/CSS3.svg' width='30'/>  <img src = 
@@ -28,7 +29,7 @@
 
 
  
-## ⭐ Tools I Use
+## Tools I Use
 
 <img src = 'https://icon.icepanel.io/Technology/svg/Vite.js.svg' width='30'/>  <img src = 
 'https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg' width='30'/>  <img src = 
