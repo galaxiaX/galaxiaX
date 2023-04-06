@@ -50,7 +50,7 @@ const galaxiaX: WhoAmI = {
 	user: "Pongsathon Kuanla",
 	currentWork: "Writing code",
 	hobbies: [
-  		"Gaming",
+  	"Gaming",
 		"Reading Manga",
 		"Watching Anime",
 		"Being up all Night chasing that ONE BUG..."
