@@ -77,8 +77,8 @@ const Ambitions = () => {
  * Getting Started with NodeJS and the MERN Stack!!
  
 ## Other Stuff
-  - ⭐ [My Resume](https://galaxiadev.vercel.app)
-  - ⭐ [My Portfolio](https://galaxiadev.vercel.app)
+ ⭐ [My Resume](https://galaxiadev.vercel.app)
+ ⭐ [My Portfolio](https://galaxiadev.vercel.app)
  
 
 ![galaxiaX's github stats](https://github-readme-stats.vercel.app/api?username=galaxiaX&show_icons=true&hide=[%22issues%22])
