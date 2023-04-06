@@ -21,10 +21,10 @@
 'https://icon.icepanel.io/Technology/svg/JavaScript.svg' width='30'/> <img src = 
 'https://icon.icepanel.io/Technology/svg/TypeScript.svg' width='30'/> <img src = 
 'https://icon.icepanel.io/Technology/svg/Node.js.svg' width='30'/> <img src = 
-'https://icon.icepanel.io/Technology/png-shadow-512/Express.png' width='30'/> <img src = 
+'https://expressjs.com/images/favicon.png' width='30'/> <img src = 
 'https://icon.icepanel.io/Technology/svg/React.svg' width='30'/> <img src = 
-'https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png' width='30'/> <img src = 
-'https://icon.icepanel.io/Technology/svg/MongoDB.svg' width='30'/> <img src = 
+'https://nextjs.org/static/favicon/apple-touch-icon.png' width='30'/> <img src = 
+'https://www.mongodb.com/assets/images/global/favicon.ico' width='30'/> <img src = 
 'https://www.prisma.io/images/favicon-32x32.png' width='30'/>
 <br><br>
 
