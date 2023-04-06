@@ -42,9 +42,9 @@
  ## Who am I?
  ```typescript
  type WhoAmI = {
- 	user: string;
- 	currentWork: string;
- 	hobbies: string[];
+    user: string;
+    currentWork: string;
+    hobbies: string[];
 };
 
 const galaxiaX: WhoAmI = {
