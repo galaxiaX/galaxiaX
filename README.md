@@ -73,7 +73,7 @@ const Ambitions = () => {
  
 ## Current Works
  * Started learning MERN Stack !!
- * I'm currently working on 🔭 building **Wep Apps using React** and working up on polishing my skills 🌱 in **Competitive Programming**.
+ * I'm currently working on 🔭 building **Web Apps using React** and working up on polishing my skills 🌱 in **Competitive Programming**.
  * Getting Started with NodeJS and the MERN Stack!!
  
 ## Other Stuff
