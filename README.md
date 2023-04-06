@@ -25,7 +25,7 @@
 'https://icon.icepanel.io/Technology/svg/React.svg' width='30'/> <img src = 
 'https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png' width='30'/> <img src = 
 'https://icon.icepanel.io/Technology/svg/MongoDB.svg' width='30'/> <img src = 
-'https://cdn.worldvectorlogo.com/logos/prisma-4.svg' width='30'/>
+'https://cdn.worldvectorlogo.com/logos/prisma-4.svg' width='27'/>
 <br><br>
 
 
