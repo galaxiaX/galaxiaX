@@ -54,7 +54,7 @@ const galaxiaX: WhoAmI = {
   	"Gaming",
 		"Reading Manga",
 		"Watching Anime",
-		"Being up all Night chasing that ONE BUG..."
+		"Spend all Night with ONE BUG..."
 	],
 };
 
