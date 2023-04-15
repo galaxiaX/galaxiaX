@@ -45,20 +45,25 @@ type WhoAmI = {
 };
 
 const galaxiaX: WhoAmI = {
-user: "Pongsathon Kuanla",
-currentWork: "Writing code",
-hobbies: ["Gaming", "Reading Manga", "Watching Anime", "Making New Project"],
+  user: "Pongsathon Kuanla",
+  currentWork: "Writing code",
+  hobbies: [
+    "Gaming",
+    "Reading Manga",
+    "Watching Anime",
+    "Making New Project"
+  ],
 };
 
 const GetCity = () => {
-return "Bangkok, Thailand";
+  return "Bangkok, Thailand";
 };
 
 const Ambitions = () => {
-LearnNewLanguage();
-LearnNewFramework();
-WorkAsSrFullstackDev();
-return;
+  LearnNewLanguage();
+  LearnNewFramework();
+  WorkAsSrFullstackDev();
+  return;
 };
 
 ```
