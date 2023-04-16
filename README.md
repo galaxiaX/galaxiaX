@@ -62,7 +62,7 @@ const GetCity = () => {
 const Ambitions = () => {
   LearnNewLanguage();
   LearnNewFramework();
-  WorkAsSrFullstackDev();
+  WorkAsFullstackDev();
   return;
 };
 
