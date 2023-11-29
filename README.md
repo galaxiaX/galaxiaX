@@ -7,7 +7,7 @@
 
 # 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231771E6.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/namo.pongsathon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/na_pongsathon) [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=Gmail&logoColor=white)](mailto:pongsathon149@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231771E6.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/namo.pongsathon) [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=Gmail&logoColor=white)](mailto:pongsathon149@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galaxiax" alt="galaxiaX" /> </p>
 
